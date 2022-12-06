@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "openzeppelin-solidity": "^4.6.0"
+  },
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^4.8.0"
   }
 }
